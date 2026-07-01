@@ -92,7 +92,7 @@ Merhaba! Ben **Mirza**, Fırat Üniversitesi Bilgisayar Mühendisliği bölümü
 
 ## 🚀 Öne Çıkan Projeler
 
-### 🔹 [Proje Adı 1](https://github.com/mirzaKlc/proje-1)
+### 🔹 [ozetAI](https://github.com/mirzaKlc/rag-study-assistant)
 Spring Boot ile geliştirilmiş, katmanlı mimari prensiplerine uygun bir backend servisi. GitHub Actions ile CI/CD pipeline'ı entegre edilerek otomatik test ve dağıtım süreçleri kuruldu.
 
 **Kullanılan Teknolojiler:** `Java` `Spring Boot` `PostgreSQL` `Docker` `GitHub Actions`
@@ -111,17 +111,15 @@ Unity ile geliştirilmiş, oyun mekaniklerini ve temel yapay zeka davranışlar�
 
 **Kullanılan Teknolojiler:** `Unity` `C#`
 
-> 💡 *Not: Yukarıdaki proje bağlantılarını ve açıklamalarını kendi repolarınla güncellemeyi unutma.*
-
 ---
 
 ## 📫 İletişim
 
 <p align="center">
-  <a href="mailto:ornek@email.com">
+  <a href="mailto:mustafa23cv@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/kullanici-adi">
+  <a href="https://linkedin.com/in/mirzaklc">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/mirzaKlc">
