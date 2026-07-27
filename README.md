@@ -101,7 +101,11 @@ Spring Boot ile geliştirilmiş, katmanlı mimari prensiplerine uygun bir backen
 
 ### 🔹 [PATIBAK](https://github.com/mirzaKlc/PATIBAK)
 
-**Kullanılan Teknolojiler:** 
+
+---
+
+### 🔹[microsoftStaj]https://github.com/mirzaKlc/microsoftStaj
+Fully offline RAG (Retrieval-Augmented Generation) Q&A assistant built with Microsoft Foundry Local, SQLite, and Python.
 
 ---
 
