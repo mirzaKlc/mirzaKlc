@@ -99,7 +99,7 @@ Spring Boot ile geliştirilmiş, katmanlı mimari prensiplerine uygun bir backen
 
 ---
 
-### 🔹 PATIBAK(https://github.com/mirzaKlc/PATIBAK)
+### 🔹 [PATIBAK](https://github.com/mirzaKlc/PATIBAK)
 
 **Kullanılan Teknolojiler:** 
 
