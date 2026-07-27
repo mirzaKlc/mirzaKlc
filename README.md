@@ -104,7 +104,7 @@ Spring Boot ile geliştirilmiş, katmanlı mimari prensiplerine uygun bir backen
 
 ---
 
-### 🔹[microsoftStaj]https://github.com/mirzaKlc/microsoftStaj
+### 🔹[microsoftStaj](https://github.com/mirzaKlc/microsoftStaj)
 Fully offline RAG (Retrieval-Augmented Generation) Q&A assistant built with Microsoft Foundry Local, SQLite, and Python.
 
 ---
@@ -127,5 +127,4 @@ Fully offline RAG (Retrieval-Augmented Generation) Q&A assistant built with Micr
 <div align="center">
 
 ### "Öğrenmeyi asla bırakmayan bir mühendis, her zaman bir adım öndedir." 🚀
-</div>## Hi there 👋
 
