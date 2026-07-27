@@ -99,7 +99,7 @@ Spring Boot ile geliştirilmiş, katmanlı mimari prensiplerine uygun bir backen
 
 ---
 
-### 🔹 [Proje Adı 2](https://github.com/mirzaKlc/proje-2)
+### 🔹 IoT projesi(https://github.com/mirzaKlc/proje-2)
 NodeMCU ile toplanan sensör verilerinin ThingSpeak üzerinden gerçek zamanlı izlenmesini sağlayan bir IoT projesi.
 
 **Kullanılan Teknolojiler:** `NodeMCU` `C++` `ThingSpeak` `IoT`
