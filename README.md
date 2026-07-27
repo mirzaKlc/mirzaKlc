@@ -99,19 +99,12 @@ Spring Boot ile geliştirilmiş, katmanlı mimari prensiplerine uygun bir backen
 
 ---
 
-### 🔹 IoT projesi(https://github.com/mirzaKlc/proje-2)
-NodeMCU ile toplanan sensör verilerinin ThingSpeak üzerinden gerçek zamanlı izlenmesini sağlayan bir IoT projesi.
+### 🔹 PATIBAK(https://github.com/mirzaKlc/PATIBAK)
 
-**Kullanılan Teknolojiler:** `NodeMCU` `C++` `ThingSpeak` `IoT`
-
----
-
-### 🔹 [Proje Adı 3](https://github.com/mirzaKlc/proje-3)
-Unity ile geliştirilmiş, oyun mekaniklerini ve temel yapay zeka davranışlarını içeren bir oyun prototipi.
-
-**Kullanılan Teknolojiler:** `Unity` `C#`
+**Kullanılan Teknolojiler:** 
 
 ---
+
 
 ## 📫 İletişim
 
