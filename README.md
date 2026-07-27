@@ -92,6 +92,11 @@ Merhaba! Ben **Mirza**, Fırat Üniversitesi Bilgisayar Mühendisliği bölümü
 
 ## 🚀 Öne Çıkan Projeler
 
+### 🔹[microsoftStaj](https://github.com/mirzaKlc/microsoftStaj)
+Fully offline RAG (Retrieval-Augmented Generation) Q&A assistant built with Microsoft Foundry Local, SQLite, and Python.
+
+---
+
 ### 🔹 [ozetAI](https://github.com/mirzaKlc/rag-study-assistant)
 Spring Boot ile geliştirilmiş, katmanlı mimari prensiplerine uygun bir backend servisi. GitHub Actions ile CI/CD pipeline'ı entegre edilerek otomatik test ve dağıtım süreçleri kuruldu.
 
@@ -104,10 +109,7 @@ Spring Boot ile geliştirilmiş, katmanlı mimari prensiplerine uygun bir backen
 
 ---
 
-### 🔹[microsoftStaj](https://github.com/mirzaKlc/microsoftStaj)
-Fully offline RAG (Retrieval-Augmented Generation) Q&A assistant built with Microsoft Foundry Local, SQLite, and Python.
 
----
 
 
 ## 📫 İletişim
